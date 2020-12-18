@@ -9,3 +9,4 @@
 5. [D2 Coding](https://github.com/naver/d2codingfont)
 6. [realGrid](http://help.realgrid.com/tutorial/)
 7. [spring framework API](https://docs.spring.io/spring-framework/docs/current/javadoc-api/overview-summary.html)
+8. [spring batch 가이드](https://jojoldu.tistory.com/324?category=902551)

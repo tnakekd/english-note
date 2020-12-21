@@ -10,3 +10,6 @@
 6. [realGrid](http://help.realgrid.com/tutorial/)
 7. [spring framework API](https://docs.spring.io/spring-framework/docs/current/javadoc-api/overview-summary.html)
 8. [spring batch 가이드](https://jojoldu.tistory.com/324?category=902551)
+9. [Redis](http://redisgate.kr/redis/introduction/redis_intro.php)
+10. [Lettuce Reference Guide](https://lettuce.io/core/release/reference/#redis-cluster)
+

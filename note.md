@@ -12,4 +12,5 @@
 8. [spring batch 가이드](https://jojoldu.tistory.com/324?category=902551)
 9. [Redis](http://redisgate.kr/redis/introduction/redis_intro.php)
 10. [Lettuce Reference Guide](https://lettuce.io/core/release/reference/#redis-cluster)
+11. [Vue.js Kor](https://v3.vuejs-korea.org/ko-KR/api/)
 
